@@ -2,12 +2,12 @@
 Project Overview
 This project aims to implement and evaluate machine learning classifiers to predict stock trading signals based on historical financial data. By leveraging two distinct trading strategies—Next-Day Price Comparison and Moving Average Crossover—we analyze the performance of various models, including K-Nearest Neighbors (KNN), Random Forest (RF) and Gradient Boosting (GB). Our results provide insights into the effectiveness of machine learning in financial trading.
 
-# Objectives
+## Objectives
 Develop machine learning models for predicting stock trading signals.
 Compare the effectiveness of multiple trading strategies.
-Evaluate model performance using key classification metrics.
+Evaluate model performance using key classification metrics. 
 
-# Technologies Used
+## Technologies Used
 Programming Language: Python
 Libraries: NumPy, pandas, scikit-learn, yfinance
 Machine Learning Models: KNN, Random Forest, Gradient Boosting
